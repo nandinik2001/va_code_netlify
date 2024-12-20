@@ -1,0 +1,545 @@
+Unnamed: 0.1,Unnamed: 0,Country,Age Group,Revenue_x,Product Category,Sub Category,Revenue
+0,0,France,26-35,1464518.0,Accessories,Tires and Tubes,446433.0
+1,0,France,26-35,1464518.0,Accessories,Bike Stands,20398.0
+2,0,France,26-35,1464518.0,Accessories,Helmets,439103.0
+3,0,France,26-35,1464518.0,Accessories,Bottles and Cages,93406.0
+4,0,France,26-35,1464518.0,Accessories,Fenders,27906.0
+5,0,France,26-35,1464518.0,Accessories,Hydration Packs,51945.0
+6,0,France,26-35,1464518.0,Accessories,Cleaners,7530.0
+7,0,France,26-35,1464518.0,Accessories,Bike Racks,12456.0
+8,1,France,26-35,1464518.0,Bikes,Touring Bikes,349677.0
+9,1,France,26-35,1464518.0,Bikes,Road Bikes,756904.0
+10,1,France,26-35,1464518.0,Bikes,Mountain Bikes,766022.0
+11,2,France,26-35,1464518.0,Clothing,Caps,38537.0
+12,2,France,26-35,1464518.0,Clothing,Jerseys,284828.0
+13,2,France,26-35,1464518.0,Clothing,Gloves,26787.0
+14,2,France,26-35,1464518.0,Clothing,Socks,5314.0
+15,2,France,26-35,1464518.0,Clothing,Vests,54548.0
+16,2,France,26-35,1464518.0,Clothing,Shorts,64310.0
+17,3,France,36-45,861094.0,Accessories,Tires and Tubes,446433.0
+18,3,France,36-45,861094.0,Accessories,Bike Stands,20398.0
+19,3,France,36-45,861094.0,Accessories,Helmets,439103.0
+20,3,France,36-45,861094.0,Accessories,Bottles and Cages,93406.0
+21,3,France,36-45,861094.0,Accessories,Fenders,27906.0
+22,3,France,36-45,861094.0,Accessories,Hydration Packs,51945.0
+23,3,France,36-45,861094.0,Accessories,Cleaners,7530.0
+24,3,France,36-45,861094.0,Accessories,Bike Racks,12456.0
+25,4,France,36-45,861094.0,Bikes,Touring Bikes,349677.0
+26,4,France,36-45,861094.0,Bikes,Road Bikes,756904.0
+27,4,France,36-45,861094.0,Bikes,Mountain Bikes,766022.0
+28,5,France,36-45,861094.0,Clothing,Caps,38537.0
+29,5,France,36-45,861094.0,Clothing,Jerseys,284828.0
+30,5,France,36-45,861094.0,Clothing,Gloves,26787.0
+31,5,France,36-45,861094.0,Clothing,Socks,5314.0
+32,5,France,36-45,861094.0,Clothing,Vests,54548.0
+33,5,France,36-45,861094.0,Clothing,Shorts,64310.0
+34,6,France,46-55,653590.0,Accessories,Tires and Tubes,446433.0
+35,6,France,46-55,653590.0,Accessories,Bike Stands,20398.0
+36,6,France,46-55,653590.0,Accessories,Helmets,439103.0
+37,6,France,46-55,653590.0,Accessories,Bottles and Cages,93406.0
+38,6,France,46-55,653590.0,Accessories,Fenders,27906.0
+39,6,France,46-55,653590.0,Accessories,Hydration Packs,51945.0
+40,6,France,46-55,653590.0,Accessories,Cleaners,7530.0
+41,6,France,46-55,653590.0,Accessories,Bike Racks,12456.0
+42,7,France,46-55,653590.0,Bikes,Touring Bikes,349677.0
+43,7,France,46-55,653590.0,Bikes,Road Bikes,756904.0
+44,7,France,46-55,653590.0,Bikes,Mountain Bikes,766022.0
+45,8,France,46-55,653590.0,Clothing,Caps,38537.0
+46,8,France,46-55,653590.0,Clothing,Jerseys,284828.0
+47,8,France,46-55,653590.0,Clothing,Gloves,26787.0
+48,8,France,46-55,653590.0,Clothing,Socks,5314.0
+49,8,France,46-55,653590.0,Clothing,Vests,54548.0
+50,8,France,46-55,653590.0,Clothing,Shorts,64310.0
+51,9,France,18-25,360019.0,Accessories,Tires and Tubes,446433.0
+52,9,France,18-25,360019.0,Accessories,Bike Stands,20398.0
+53,9,France,18-25,360019.0,Accessories,Helmets,439103.0
+54,9,France,18-25,360019.0,Accessories,Bottles and Cages,93406.0
+55,9,France,18-25,360019.0,Accessories,Fenders,27906.0
+56,9,France,18-25,360019.0,Accessories,Hydration Packs,51945.0
+57,9,France,18-25,360019.0,Accessories,Cleaners,7530.0
+58,9,France,18-25,360019.0,Accessories,Bike Racks,12456.0
+59,10,France,18-25,360019.0,Bikes,Touring Bikes,349677.0
+60,10,France,18-25,360019.0,Bikes,Road Bikes,756904.0
+61,10,France,18-25,360019.0,Bikes,Mountain Bikes,766022.0
+62,11,France,18-25,360019.0,Clothing,Caps,38537.0
+63,11,France,18-25,360019.0,Clothing,Jerseys,284828.0
+64,11,France,18-25,360019.0,Clothing,Gloves,26787.0
+65,11,France,18-25,360019.0,Clothing,Socks,5314.0
+66,11,France,18-25,360019.0,Clothing,Vests,54548.0
+67,11,France,18-25,360019.0,Clothing,Shorts,64310.0
+68,12,France,56-65,78677.0,Accessories,Tires and Tubes,446433.0
+69,12,France,56-65,78677.0,Accessories,Bike Stands,20398.0
+70,12,France,56-65,78677.0,Accessories,Helmets,439103.0
+71,12,France,56-65,78677.0,Accessories,Bottles and Cages,93406.0
+72,12,France,56-65,78677.0,Accessories,Fenders,27906.0
+73,12,France,56-65,78677.0,Accessories,Hydration Packs,51945.0
+74,12,France,56-65,78677.0,Accessories,Cleaners,7530.0
+75,12,France,56-65,78677.0,Accessories,Bike Racks,12456.0
+76,13,France,56-65,78677.0,Bikes,Touring Bikes,349677.0
+77,13,France,56-65,78677.0,Bikes,Road Bikes,756904.0
+78,13,France,56-65,78677.0,Bikes,Mountain Bikes,766022.0
+79,14,France,56-65,78677.0,Clothing,Caps,38537.0
+80,14,France,56-65,78677.0,Clothing,Jerseys,284828.0
+81,14,France,56-65,78677.0,Clothing,Gloves,26787.0
+82,14,France,56-65,78677.0,Clothing,Socks,5314.0
+83,14,France,56-65,78677.0,Clothing,Vests,54548.0
+84,14,France,56-65,78677.0,Clothing,Shorts,64310.0
+85,15,France,66-75,5687.0,Accessories,Tires and Tubes,446433.0
+86,15,France,66-75,5687.0,Accessories,Bike Stands,20398.0
+87,15,France,66-75,5687.0,Accessories,Helmets,439103.0
+88,15,France,66-75,5687.0,Accessories,Bottles and Cages,93406.0
+89,15,France,66-75,5687.0,Accessories,Fenders,27906.0
+90,15,France,66-75,5687.0,Accessories,Hydration Packs,51945.0
+91,15,France,66-75,5687.0,Accessories,Cleaners,7530.0
+92,15,France,66-75,5687.0,Accessories,Bike Racks,12456.0
+93,16,France,66-75,5687.0,Bikes,Touring Bikes,349677.0
+94,16,France,66-75,5687.0,Bikes,Road Bikes,756904.0
+95,16,France,66-75,5687.0,Bikes,Mountain Bikes,766022.0
+96,17,France,66-75,5687.0,Clothing,Caps,38537.0
+97,17,France,66-75,5687.0,Clothing,Jerseys,284828.0
+98,17,France,66-75,5687.0,Clothing,Gloves,26787.0
+99,17,France,66-75,5687.0,Clothing,Socks,5314.0
+100,17,France,66-75,5687.0,Clothing,Vests,54548.0
+101,17,France,66-75,5687.0,Clothing,Shorts,64310.0
+102,18,France,76-85,3647.0,Accessories,Tires and Tubes,446433.0
+103,18,France,76-85,3647.0,Accessories,Bike Stands,20398.0
+104,18,France,76-85,3647.0,Accessories,Helmets,439103.0
+105,18,France,76-85,3647.0,Accessories,Bottles and Cages,93406.0
+106,18,France,76-85,3647.0,Accessories,Fenders,27906.0
+107,18,France,76-85,3647.0,Accessories,Hydration Packs,51945.0
+108,18,France,76-85,3647.0,Accessories,Cleaners,7530.0
+109,18,France,76-85,3647.0,Accessories,Bike Racks,12456.0
+110,19,France,76-85,3647.0,Bikes,Touring Bikes,349677.0
+111,19,France,76-85,3647.0,Bikes,Road Bikes,756904.0
+112,19,France,76-85,3647.0,Bikes,Mountain Bikes,766022.0
+113,20,France,76-85,3647.0,Clothing,Caps,38537.0
+114,20,France,76-85,3647.0,Clothing,Jerseys,284828.0
+115,20,France,76-85,3647.0,Clothing,Gloves,26787.0
+116,20,France,76-85,3647.0,Clothing,Socks,5314.0
+117,20,France,76-85,3647.0,Clothing,Vests,54548.0
+118,20,France,76-85,3647.0,Clothing,Shorts,64310.0
+119,21,France,86-95,331.0,Accessories,Tires and Tubes,446433.0
+120,21,France,86-95,331.0,Accessories,Bike Stands,20398.0
+121,21,France,86-95,331.0,Accessories,Helmets,439103.0
+122,21,France,86-95,331.0,Accessories,Bottles and Cages,93406.0
+123,21,France,86-95,331.0,Accessories,Fenders,27906.0
+124,21,France,86-95,331.0,Accessories,Hydration Packs,51945.0
+125,21,France,86-95,331.0,Accessories,Cleaners,7530.0
+126,21,France,86-95,331.0,Accessories,Bike Racks,12456.0
+127,22,France,86-95,331.0,Bikes,Touring Bikes,349677.0
+128,22,France,86-95,331.0,Bikes,Road Bikes,756904.0
+129,22,France,86-95,331.0,Bikes,Mountain Bikes,766022.0
+130,23,France,86-95,331.0,Clothing,Caps,38537.0
+131,23,France,86-95,331.0,Clothing,Jerseys,284828.0
+132,23,France,86-95,331.0,Clothing,Gloves,26787.0
+133,23,France,86-95,331.0,Clothing,Socks,5314.0
+134,23,France,86-95,331.0,Clothing,Vests,54548.0
+135,23,France,86-95,331.0,Clothing,Shorts,64310.0
+136,24,Germany,26-35,1734453.0,Accessories,Tires and Tubes,468474.0
+137,24,Germany,26-35,1734453.0,Accessories,Bottles and Cages,118788.0
+138,24,Germany,26-35,1734453.0,Accessories,Cleaners,11213.0
+139,24,Germany,26-35,1734453.0,Accessories,Helmets,539855.0
+140,24,Germany,26-35,1734453.0,Accessories,Hydration Packs,45919.0
+141,24,Germany,26-35,1734453.0,Accessories,Fenders,47216.0
+142,24,Germany,26-35,1734453.0,Accessories,Bike Racks,33201.0
+143,24,Germany,26-35,1734453.0,Accessories,Bike Stands,24744.0
+144,25,Germany,26-35,1734453.0,Bikes,Touring Bikes,511335.0
+145,25,Germany,26-35,1734453.0,Bikes,Road Bikes,922786.0
+146,25,Germany,26-35,1734453.0,Bikes,Mountain Bikes,1031306.0
+147,26,Germany,26-35,1734453.0,Clothing,Jerseys,316610.0
+148,26,Germany,26-35,1734453.0,Clothing,Caps,54414.0
+149,26,Germany,26-35,1734453.0,Clothing,Gloves,28870.0
+150,26,Germany,26-35,1734453.0,Clothing,Socks,7765.0
+151,26,Germany,26-35,1734453.0,Clothing,Vests,65654.0
+152,26,Germany,26-35,1734453.0,Clothing,Shorts,16360.0
+153,27,Germany,36-45,1246153.0,Accessories,Tires and Tubes,468474.0
+154,27,Germany,36-45,1246153.0,Accessories,Bottles and Cages,118788.0
+155,27,Germany,36-45,1246153.0,Accessories,Cleaners,11213.0
+156,27,Germany,36-45,1246153.0,Accessories,Helmets,539855.0
+157,27,Germany,36-45,1246153.0,Accessories,Hydration Packs,45919.0
+158,27,Germany,36-45,1246153.0,Accessories,Fenders,47216.0
+159,27,Germany,36-45,1246153.0,Accessories,Bike Racks,33201.0
+160,27,Germany,36-45,1246153.0,Accessories,Bike Stands,24744.0
+161,28,Germany,36-45,1246153.0,Bikes,Touring Bikes,511335.0
+162,28,Germany,36-45,1246153.0,Bikes,Road Bikes,922786.0
+163,28,Germany,36-45,1246153.0,Bikes,Mountain Bikes,1031306.0
+164,29,Germany,36-45,1246153.0,Clothing,Jerseys,316610.0
+165,29,Germany,36-45,1246153.0,Clothing,Caps,54414.0
+166,29,Germany,36-45,1246153.0,Clothing,Gloves,28870.0
+167,29,Germany,36-45,1246153.0,Clothing,Socks,7765.0
+168,29,Germany,36-45,1246153.0,Clothing,Vests,65654.0
+169,29,Germany,36-45,1246153.0,Clothing,Shorts,16360.0
+170,30,Germany,46-55,593096.0,Accessories,Tires and Tubes,468474.0
+171,30,Germany,46-55,593096.0,Accessories,Bottles and Cages,118788.0
+172,30,Germany,46-55,593096.0,Accessories,Cleaners,11213.0
+173,30,Germany,46-55,593096.0,Accessories,Helmets,539855.0
+174,30,Germany,46-55,593096.0,Accessories,Hydration Packs,45919.0
+175,30,Germany,46-55,593096.0,Accessories,Fenders,47216.0
+176,30,Germany,46-55,593096.0,Accessories,Bike Racks,33201.0
+177,30,Germany,46-55,593096.0,Accessories,Bike Stands,24744.0
+178,31,Germany,46-55,593096.0,Bikes,Touring Bikes,511335.0
+179,31,Germany,46-55,593096.0,Bikes,Road Bikes,922786.0
+180,31,Germany,46-55,593096.0,Bikes,Mountain Bikes,1031306.0
+181,32,Germany,46-55,593096.0,Clothing,Jerseys,316610.0
+182,32,Germany,46-55,593096.0,Clothing,Caps,54414.0
+183,32,Germany,46-55,593096.0,Clothing,Gloves,28870.0
+184,32,Germany,46-55,593096.0,Clothing,Socks,7765.0
+185,32,Germany,46-55,593096.0,Clothing,Vests,65654.0
+186,32,Germany,46-55,593096.0,Clothing,Shorts,16360.0
+187,33,Germany,18-25,513527.0,Accessories,Tires and Tubes,468474.0
+188,33,Germany,18-25,513527.0,Accessories,Bottles and Cages,118788.0
+189,33,Germany,18-25,513527.0,Accessories,Cleaners,11213.0
+190,33,Germany,18-25,513527.0,Accessories,Helmets,539855.0
+191,33,Germany,18-25,513527.0,Accessories,Hydration Packs,45919.0
+192,33,Germany,18-25,513527.0,Accessories,Fenders,47216.0
+193,33,Germany,18-25,513527.0,Accessories,Bike Racks,33201.0
+194,33,Germany,18-25,513527.0,Accessories,Bike Stands,24744.0
+195,34,Germany,18-25,513527.0,Bikes,Touring Bikes,511335.0
+196,34,Germany,18-25,513527.0,Bikes,Road Bikes,922786.0
+197,34,Germany,18-25,513527.0,Bikes,Mountain Bikes,1031306.0
+198,35,Germany,18-25,513527.0,Clothing,Jerseys,316610.0
+199,35,Germany,18-25,513527.0,Clothing,Caps,54414.0
+200,35,Germany,18-25,513527.0,Clothing,Gloves,28870.0
+201,35,Germany,18-25,513527.0,Clothing,Socks,7765.0
+202,35,Germany,18-25,513527.0,Clothing,Vests,65654.0
+203,35,Germany,18-25,513527.0,Clothing,Shorts,16360.0
+204,36,Germany,56-65,101753.0,Accessories,Tires and Tubes,468474.0
+205,36,Germany,56-65,101753.0,Accessories,Bottles and Cages,118788.0
+206,36,Germany,56-65,101753.0,Accessories,Cleaners,11213.0
+207,36,Germany,56-65,101753.0,Accessories,Helmets,539855.0
+208,36,Germany,56-65,101753.0,Accessories,Hydration Packs,45919.0
+209,36,Germany,56-65,101753.0,Accessories,Fenders,47216.0
+210,36,Germany,56-65,101753.0,Accessories,Bike Racks,33201.0
+211,36,Germany,56-65,101753.0,Accessories,Bike Stands,24744.0
+212,37,Germany,56-65,101753.0,Bikes,Touring Bikes,511335.0
+213,37,Germany,56-65,101753.0,Bikes,Road Bikes,922786.0
+214,37,Germany,56-65,101753.0,Bikes,Mountain Bikes,1031306.0
+215,38,Germany,56-65,101753.0,Clothing,Jerseys,316610.0
+216,38,Germany,56-65,101753.0,Clothing,Caps,54414.0
+217,38,Germany,56-65,101753.0,Clothing,Gloves,28870.0
+218,38,Germany,56-65,101753.0,Clothing,Socks,7765.0
+219,38,Germany,56-65,101753.0,Clothing,Vests,65654.0
+220,38,Germany,56-65,101753.0,Clothing,Shorts,16360.0
+221,39,Germany,66-75,15601.0,Accessories,Tires and Tubes,468474.0
+222,39,Germany,66-75,15601.0,Accessories,Bottles and Cages,118788.0
+223,39,Germany,66-75,15601.0,Accessories,Cleaners,11213.0
+224,39,Germany,66-75,15601.0,Accessories,Helmets,539855.0
+225,39,Germany,66-75,15601.0,Accessories,Hydration Packs,45919.0
+226,39,Germany,66-75,15601.0,Accessories,Fenders,47216.0
+227,39,Germany,66-75,15601.0,Accessories,Bike Racks,33201.0
+228,39,Germany,66-75,15601.0,Accessories,Bike Stands,24744.0
+229,40,Germany,66-75,15601.0,Bikes,Touring Bikes,511335.0
+230,40,Germany,66-75,15601.0,Bikes,Road Bikes,922786.0
+231,40,Germany,66-75,15601.0,Bikes,Mountain Bikes,1031306.0
+232,41,Germany,66-75,15601.0,Clothing,Jerseys,316610.0
+233,41,Germany,66-75,15601.0,Clothing,Caps,54414.0
+234,41,Germany,66-75,15601.0,Clothing,Gloves,28870.0
+235,41,Germany,66-75,15601.0,Clothing,Socks,7765.0
+236,41,Germany,66-75,15601.0,Clothing,Vests,65654.0
+237,41,Germany,66-75,15601.0,Clothing,Shorts,16360.0
+238,42,Germany,76-85,7466.0,Accessories,Tires and Tubes,468474.0
+239,42,Germany,76-85,7466.0,Accessories,Bottles and Cages,118788.0
+240,42,Germany,76-85,7466.0,Accessories,Cleaners,11213.0
+241,42,Germany,76-85,7466.0,Accessories,Helmets,539855.0
+242,42,Germany,76-85,7466.0,Accessories,Hydration Packs,45919.0
+243,42,Germany,76-85,7466.0,Accessories,Fenders,47216.0
+244,42,Germany,76-85,7466.0,Accessories,Bike Racks,33201.0
+245,42,Germany,76-85,7466.0,Accessories,Bike Stands,24744.0
+246,43,Germany,76-85,7466.0,Bikes,Touring Bikes,511335.0
+247,43,Germany,76-85,7466.0,Bikes,Road Bikes,922786.0
+248,43,Germany,76-85,7466.0,Bikes,Mountain Bikes,1031306.0
+249,44,Germany,76-85,7466.0,Clothing,Jerseys,316610.0
+250,44,Germany,76-85,7466.0,Clothing,Caps,54414.0
+251,44,Germany,76-85,7466.0,Clothing,Gloves,28870.0
+252,44,Germany,76-85,7466.0,Clothing,Socks,7765.0
+253,44,Germany,76-85,7466.0,Clothing,Vests,65654.0
+254,44,Germany,76-85,7466.0,Clothing,Shorts,16360.0
+255,45,Germany,86-95,5087.0,Accessories,Tires and Tubes,468474.0
+256,45,Germany,86-95,5087.0,Accessories,Bottles and Cages,118788.0
+257,45,Germany,86-95,5087.0,Accessories,Cleaners,11213.0
+258,45,Germany,86-95,5087.0,Accessories,Helmets,539855.0
+259,45,Germany,86-95,5087.0,Accessories,Hydration Packs,45919.0
+260,45,Germany,86-95,5087.0,Accessories,Fenders,47216.0
+261,45,Germany,86-95,5087.0,Accessories,Bike Racks,33201.0
+262,45,Germany,86-95,5087.0,Accessories,Bike Stands,24744.0
+263,46,Germany,86-95,5087.0,Bikes,Touring Bikes,511335.0
+264,46,Germany,86-95,5087.0,Bikes,Road Bikes,922786.0
+265,46,Germany,86-95,5087.0,Bikes,Mountain Bikes,1031306.0
+266,47,Germany,86-95,5087.0,Clothing,Jerseys,316610.0
+267,47,Germany,86-95,5087.0,Clothing,Caps,54414.0
+268,47,Germany,86-95,5087.0,Clothing,Gloves,28870.0
+269,47,Germany,86-95,5087.0,Clothing,Socks,7765.0
+270,47,Germany,86-95,5087.0,Clothing,Vests,65654.0
+271,47,Germany,86-95,5087.0,Clothing,Shorts,16360.0
+272,48,United Kingdom,26-35,1555493.0,Accessories,Helmets,534691.0
+273,48,United Kingdom,26-35,1555493.0,Accessories,Tires and Tubes,483548.0
+274,48,United Kingdom,26-35,1555493.0,Accessories,Bottles and Cages,120195.0
+275,48,United Kingdom,26-35,1555493.0,Accessories,Cleaners,11998.0
+276,48,United Kingdom,26-35,1555493.0,Accessories,Bike Stands,27918.0
+277,48,United Kingdom,26-35,1555493.0,Accessories,Fenders,37665.0
+278,48,United Kingdom,26-35,1555493.0,Accessories,Hydration Packs,72549.0
+279,48,United Kingdom,26-35,1555493.0,Accessories,Bike Racks,20484.0
+280,49,United Kingdom,26-35,1555493.0,Bikes,Road Bikes,924620.0
+281,49,United Kingdom,26-35,1555493.0,Bikes,Touring Bikes,532439.0
+282,49,United Kingdom,26-35,1555493.0,Bikes,Mountain Bikes,958058.0
+283,50,United Kingdom,26-35,1555493.0,Clothing,Gloves,36918.0
+284,50,United Kingdom,26-35,1555493.0,Clothing,Caps,55422.0
+285,50,United Kingdom,26-35,1555493.0,Clothing,Jerseys,348986.0
+286,50,United Kingdom,26-35,1555493.0,Clothing,Vests,44772.0
+287,50,United Kingdom,26-35,1555493.0,Clothing,Socks,10183.0
+288,50,United Kingdom,26-35,1555493.0,Clothing,Shorts,55774.0
+289,51,United Kingdom,36-45,1338906.0,Accessories,Helmets,534691.0
+290,51,United Kingdom,36-45,1338906.0,Accessories,Tires and Tubes,483548.0
+291,51,United Kingdom,36-45,1338906.0,Accessories,Bottles and Cages,120195.0
+292,51,United Kingdom,36-45,1338906.0,Accessories,Cleaners,11998.0
+293,51,United Kingdom,36-45,1338906.0,Accessories,Bike Stands,27918.0
+294,51,United Kingdom,36-45,1338906.0,Accessories,Fenders,37665.0
+295,51,United Kingdom,36-45,1338906.0,Accessories,Hydration Packs,72549.0
+296,51,United Kingdom,36-45,1338906.0,Accessories,Bike Racks,20484.0
+297,52,United Kingdom,36-45,1338906.0,Bikes,Road Bikes,924620.0
+298,52,United Kingdom,36-45,1338906.0,Bikes,Touring Bikes,532439.0
+299,52,United Kingdom,36-45,1338906.0,Bikes,Mountain Bikes,958058.0
+300,53,United Kingdom,36-45,1338906.0,Clothing,Gloves,36918.0
+301,53,United Kingdom,36-45,1338906.0,Clothing,Caps,55422.0
+302,53,United Kingdom,36-45,1338906.0,Clothing,Jerseys,348986.0
+303,53,United Kingdom,36-45,1338906.0,Clothing,Vests,44772.0
+304,53,United Kingdom,36-45,1338906.0,Clothing,Socks,10183.0
+305,53,United Kingdom,36-45,1338906.0,Clothing,Shorts,55774.0
+306,54,United Kingdom,46-55,625489.0,Accessories,Helmets,534691.0
+307,54,United Kingdom,46-55,625489.0,Accessories,Tires and Tubes,483548.0
+308,54,United Kingdom,46-55,625489.0,Accessories,Bottles and Cages,120195.0
+309,54,United Kingdom,46-55,625489.0,Accessories,Cleaners,11998.0
+310,54,United Kingdom,46-55,625489.0,Accessories,Bike Stands,27918.0
+311,54,United Kingdom,46-55,625489.0,Accessories,Fenders,37665.0
+312,54,United Kingdom,46-55,625489.0,Accessories,Hydration Packs,72549.0
+313,54,United Kingdom,46-55,625489.0,Accessories,Bike Racks,20484.0
+314,55,United Kingdom,46-55,625489.0,Bikes,Road Bikes,924620.0
+315,55,United Kingdom,46-55,625489.0,Bikes,Touring Bikes,532439.0
+316,55,United Kingdom,46-55,625489.0,Bikes,Mountain Bikes,958058.0
+317,56,United Kingdom,46-55,625489.0,Clothing,Gloves,36918.0
+318,56,United Kingdom,46-55,625489.0,Clothing,Caps,55422.0
+319,56,United Kingdom,46-55,625489.0,Clothing,Jerseys,348986.0
+320,56,United Kingdom,46-55,625489.0,Clothing,Vests,44772.0
+321,56,United Kingdom,46-55,625489.0,Clothing,Socks,10183.0
+322,56,United Kingdom,46-55,625489.0,Clothing,Shorts,55774.0
+323,57,United Kingdom,18-25,546255.0,Accessories,Helmets,534691.0
+324,57,United Kingdom,18-25,546255.0,Accessories,Tires and Tubes,483548.0
+325,57,United Kingdom,18-25,546255.0,Accessories,Bottles and Cages,120195.0
+326,57,United Kingdom,18-25,546255.0,Accessories,Cleaners,11998.0
+327,57,United Kingdom,18-25,546255.0,Accessories,Bike Stands,27918.0
+328,57,United Kingdom,18-25,546255.0,Accessories,Fenders,37665.0
+329,57,United Kingdom,18-25,546255.0,Accessories,Hydration Packs,72549.0
+330,57,United Kingdom,18-25,546255.0,Accessories,Bike Racks,20484.0
+331,58,United Kingdom,18-25,546255.0,Bikes,Road Bikes,924620.0
+332,58,United Kingdom,18-25,546255.0,Bikes,Touring Bikes,532439.0
+333,58,United Kingdom,18-25,546255.0,Bikes,Mountain Bikes,958058.0
+334,59,United Kingdom,18-25,546255.0,Clothing,Gloves,36918.0
+335,59,United Kingdom,18-25,546255.0,Clothing,Caps,55422.0
+336,59,United Kingdom,18-25,546255.0,Clothing,Jerseys,348986.0
+337,59,United Kingdom,18-25,546255.0,Clothing,Vests,44772.0
+338,59,United Kingdom,18-25,546255.0,Clothing,Socks,10183.0
+339,59,United Kingdom,18-25,546255.0,Clothing,Shorts,55774.0
+340,60,United Kingdom,56-65,158252.0,Accessories,Helmets,534691.0
+341,60,United Kingdom,56-65,158252.0,Accessories,Tires and Tubes,483548.0
+342,60,United Kingdom,56-65,158252.0,Accessories,Bottles and Cages,120195.0
+343,60,United Kingdom,56-65,158252.0,Accessories,Cleaners,11998.0
+344,60,United Kingdom,56-65,158252.0,Accessories,Bike Stands,27918.0
+345,60,United Kingdom,56-65,158252.0,Accessories,Fenders,37665.0
+346,60,United Kingdom,56-65,158252.0,Accessories,Hydration Packs,72549.0
+347,60,United Kingdom,56-65,158252.0,Accessories,Bike Racks,20484.0
+348,61,United Kingdom,56-65,158252.0,Bikes,Road Bikes,924620.0
+349,61,United Kingdom,56-65,158252.0,Bikes,Touring Bikes,532439.0
+350,61,United Kingdom,56-65,158252.0,Bikes,Mountain Bikes,958058.0
+351,62,United Kingdom,56-65,158252.0,Clothing,Gloves,36918.0
+352,62,United Kingdom,56-65,158252.0,Clothing,Caps,55422.0
+353,62,United Kingdom,56-65,158252.0,Clothing,Jerseys,348986.0
+354,62,United Kingdom,56-65,158252.0,Clothing,Vests,44772.0
+355,62,United Kingdom,56-65,158252.0,Clothing,Socks,10183.0
+356,62,United Kingdom,56-65,158252.0,Clothing,Shorts,55774.0
+357,63,United Kingdom,66-75,11278.0,Accessories,Helmets,534691.0
+358,63,United Kingdom,66-75,11278.0,Accessories,Tires and Tubes,483548.0
+359,63,United Kingdom,66-75,11278.0,Accessories,Bottles and Cages,120195.0
+360,63,United Kingdom,66-75,11278.0,Accessories,Cleaners,11998.0
+361,63,United Kingdom,66-75,11278.0,Accessories,Bike Stands,27918.0
+362,63,United Kingdom,66-75,11278.0,Accessories,Fenders,37665.0
+363,63,United Kingdom,66-75,11278.0,Accessories,Hydration Packs,72549.0
+364,63,United Kingdom,66-75,11278.0,Accessories,Bike Racks,20484.0
+365,64,United Kingdom,66-75,11278.0,Bikes,Road Bikes,924620.0
+366,64,United Kingdom,66-75,11278.0,Bikes,Touring Bikes,532439.0
+367,64,United Kingdom,66-75,11278.0,Bikes,Mountain Bikes,958058.0
+368,65,United Kingdom,66-75,11278.0,Clothing,Gloves,36918.0
+369,65,United Kingdom,66-75,11278.0,Clothing,Caps,55422.0
+370,65,United Kingdom,66-75,11278.0,Clothing,Jerseys,348986.0
+371,65,United Kingdom,66-75,11278.0,Clothing,Vests,44772.0
+372,65,United Kingdom,66-75,11278.0,Clothing,Socks,10183.0
+373,65,United Kingdom,66-75,11278.0,Clothing,Shorts,55774.0
+374,66,United Kingdom,76-85,7363.0,Accessories,Helmets,534691.0
+375,66,United Kingdom,76-85,7363.0,Accessories,Tires and Tubes,483548.0
+376,66,United Kingdom,76-85,7363.0,Accessories,Bottles and Cages,120195.0
+377,66,United Kingdom,76-85,7363.0,Accessories,Cleaners,11998.0
+378,66,United Kingdom,76-85,7363.0,Accessories,Bike Stands,27918.0
+379,66,United Kingdom,76-85,7363.0,Accessories,Fenders,37665.0
+380,66,United Kingdom,76-85,7363.0,Accessories,Hydration Packs,72549.0
+381,66,United Kingdom,76-85,7363.0,Accessories,Bike Racks,20484.0
+382,67,United Kingdom,76-85,7363.0,Bikes,Road Bikes,924620.0
+383,67,United Kingdom,76-85,7363.0,Bikes,Touring Bikes,532439.0
+384,67,United Kingdom,76-85,7363.0,Bikes,Mountain Bikes,958058.0
+385,68,United Kingdom,76-85,7363.0,Clothing,Gloves,36918.0
+386,68,United Kingdom,76-85,7363.0,Clothing,Caps,55422.0
+387,68,United Kingdom,76-85,7363.0,Clothing,Jerseys,348986.0
+388,68,United Kingdom,76-85,7363.0,Clothing,Vests,44772.0
+389,68,United Kingdom,76-85,7363.0,Clothing,Socks,10183.0
+390,68,United Kingdom,76-85,7363.0,Clothing,Shorts,55774.0
+391,69,United Kingdom,86-95,1574.0,Accessories,Helmets,534691.0
+392,69,United Kingdom,86-95,1574.0,Accessories,Tires and Tubes,483548.0
+393,69,United Kingdom,86-95,1574.0,Accessories,Bottles and Cages,120195.0
+394,69,United Kingdom,86-95,1574.0,Accessories,Cleaners,11998.0
+395,69,United Kingdom,86-95,1574.0,Accessories,Bike Stands,27918.0
+396,69,United Kingdom,86-95,1574.0,Accessories,Fenders,37665.0
+397,69,United Kingdom,86-95,1574.0,Accessories,Hydration Packs,72549.0
+398,69,United Kingdom,86-95,1574.0,Accessories,Bike Racks,20484.0
+399,70,United Kingdom,86-95,1574.0,Bikes,Road Bikes,924620.0
+400,70,United Kingdom,86-95,1574.0,Bikes,Touring Bikes,532439.0
+401,70,United Kingdom,86-95,1574.0,Bikes,Mountain Bikes,958058.0
+402,71,United Kingdom,86-95,1574.0,Clothing,Gloves,36918.0
+403,71,United Kingdom,86-95,1574.0,Clothing,Caps,55422.0
+404,71,United Kingdom,86-95,1574.0,Clothing,Jerseys,348986.0
+405,71,United Kingdom,86-95,1574.0,Clothing,Vests,44772.0
+406,71,United Kingdom,86-95,1574.0,Clothing,Socks,10183.0
+407,71,United Kingdom,86-95,1574.0,Clothing,Shorts,55774.0
+408,72,United States,36-45,3523172.0,Accessories,Tires and Tubes,1467460.0
+409,72,United States,36-45,3523172.0,Accessories,Helmets,1224561.0
+410,72,United States,36-45,3523172.0,Accessories,Bike Stands,77851.0
+411,72,United States,36-45,3523172.0,Accessories,Hydration Packs,232863.0
+412,72,United States,36-45,3523172.0,Accessories,Fenders,216417.0
+413,72,United States,36-45,3523172.0,Accessories,Cleaners,52146.0
+414,72,United States,36-45,3523172.0,Accessories,Bottles and Cages,377018.0
+415,72,United States,36-45,3523172.0,Accessories,Bike Racks,74713.0
+416,73,United States,36-45,3523172.0,Bikes,Mountain Bikes,2421070.0
+417,73,United States,36-45,3523172.0,Bikes,Touring Bikes,994459.0
+418,73,United States,36-45,3523172.0,Bikes,Road Bikes,1317679.0
+419,74,United States,36-45,3523172.0,Clothing,Gloves,135778.0
+420,74,United States,36-45,3523172.0,Clothing,Jerseys,883686.0
+421,74,United States,36-45,3523172.0,Clothing,Socks,37975.0
+422,74,United States,36-45,3523172.0,Clothing,Caps,107619.0
+423,74,United States,36-45,3523172.0,Clothing,Vests,203707.0
+424,74,United States,36-45,3523172.0,Clothing,Shorts,552740.0
+425,75,United States,26-35,3089385.0,Accessories,Tires and Tubes,1467460.0
+426,75,United States,26-35,3089385.0,Accessories,Helmets,1224561.0
+427,75,United States,26-35,3089385.0,Accessories,Bike Stands,77851.0
+428,75,United States,26-35,3089385.0,Accessories,Hydration Packs,232863.0
+429,75,United States,26-35,3089385.0,Accessories,Fenders,216417.0
+430,75,United States,26-35,3089385.0,Accessories,Cleaners,52146.0
+431,75,United States,26-35,3089385.0,Accessories,Bottles and Cages,377018.0
+432,75,United States,26-35,3089385.0,Accessories,Bike Racks,74713.0
+433,76,United States,26-35,3089385.0,Bikes,Mountain Bikes,2421070.0
+434,76,United States,26-35,3089385.0,Bikes,Touring Bikes,994459.0
+435,76,United States,26-35,3089385.0,Bikes,Road Bikes,1317679.0
+436,77,United States,26-35,3089385.0,Clothing,Gloves,135778.0
+437,77,United States,26-35,3089385.0,Clothing,Jerseys,883686.0
+438,77,United States,26-35,3089385.0,Clothing,Socks,37975.0
+439,77,United States,26-35,3089385.0,Clothing,Caps,107619.0
+440,77,United States,26-35,3089385.0,Clothing,Vests,203707.0
+441,77,United States,26-35,3089385.0,Clothing,Shorts,552740.0
+442,78,United States,46-55,1826743.0,Accessories,Tires and Tubes,1467460.0
+443,78,United States,46-55,1826743.0,Accessories,Helmets,1224561.0
+444,78,United States,46-55,1826743.0,Accessories,Bike Stands,77851.0
+445,78,United States,46-55,1826743.0,Accessories,Hydration Packs,232863.0
+446,78,United States,46-55,1826743.0,Accessories,Fenders,216417.0
+447,78,United States,46-55,1826743.0,Accessories,Cleaners,52146.0
+448,78,United States,46-55,1826743.0,Accessories,Bottles and Cages,377018.0
+449,78,United States,46-55,1826743.0,Accessories,Bike Racks,74713.0
+450,79,United States,46-55,1826743.0,Bikes,Mountain Bikes,2421070.0
+451,79,United States,46-55,1826743.0,Bikes,Touring Bikes,994459.0
+452,79,United States,46-55,1826743.0,Bikes,Road Bikes,1317679.0
+453,80,United States,46-55,1826743.0,Clothing,Gloves,135778.0
+454,80,United States,46-55,1826743.0,Clothing,Jerseys,883686.0
+455,80,United States,46-55,1826743.0,Clothing,Socks,37975.0
+456,80,United States,46-55,1826743.0,Clothing,Caps,107619.0
+457,80,United States,46-55,1826743.0,Clothing,Vests,203707.0
+458,80,United States,46-55,1826743.0,Clothing,Shorts,552740.0
+459,81,United States,18-25,977944.0,Accessories,Tires and Tubes,1467460.0
+460,81,United States,18-25,977944.0,Accessories,Helmets,1224561.0
+461,81,United States,18-25,977944.0,Accessories,Bike Stands,77851.0
+462,81,United States,18-25,977944.0,Accessories,Hydration Packs,232863.0
+463,81,United States,18-25,977944.0,Accessories,Fenders,216417.0
+464,81,United States,18-25,977944.0,Accessories,Cleaners,52146.0
+465,81,United States,18-25,977944.0,Accessories,Bottles and Cages,377018.0
+466,81,United States,18-25,977944.0,Accessories,Bike Racks,74713.0
+467,82,United States,18-25,977944.0,Bikes,Mountain Bikes,2421070.0
+468,82,United States,18-25,977944.0,Bikes,Touring Bikes,994459.0
+469,82,United States,18-25,977944.0,Bikes,Road Bikes,1317679.0
+470,83,United States,18-25,977944.0,Clothing,Gloves,135778.0
+471,83,United States,18-25,977944.0,Clothing,Jerseys,883686.0
+472,83,United States,18-25,977944.0,Clothing,Socks,37975.0
+473,83,United States,18-25,977944.0,Clothing,Caps,107619.0
+474,83,United States,18-25,977944.0,Clothing,Vests,203707.0
+475,83,United States,18-25,977944.0,Clothing,Shorts,552740.0
+476,84,United States,56-65,827369.0,Accessories,Tires and Tubes,1467460.0
+477,84,United States,56-65,827369.0,Accessories,Helmets,1224561.0
+478,84,United States,56-65,827369.0,Accessories,Bike Stands,77851.0
+479,84,United States,56-65,827369.0,Accessories,Hydration Packs,232863.0
+480,84,United States,56-65,827369.0,Accessories,Fenders,216417.0
+481,84,United States,56-65,827369.0,Accessories,Cleaners,52146.0
+482,84,United States,56-65,827369.0,Accessories,Bottles and Cages,377018.0
+483,84,United States,56-65,827369.0,Accessories,Bike Racks,74713.0
+484,85,United States,56-65,827369.0,Bikes,Mountain Bikes,2421070.0
+485,85,United States,56-65,827369.0,Bikes,Touring Bikes,994459.0
+486,85,United States,56-65,827369.0,Bikes,Road Bikes,1317679.0
+487,86,United States,56-65,827369.0,Clothing,Gloves,135778.0
+488,86,United States,56-65,827369.0,Clothing,Jerseys,883686.0
+489,86,United States,56-65,827369.0,Clothing,Socks,37975.0
+490,86,United States,56-65,827369.0,Clothing,Caps,107619.0
+491,86,United States,56-65,827369.0,Clothing,Vests,203707.0
+492,86,United States,56-65,827369.0,Clothing,Shorts,552740.0
+493,87,United States,66-75,62179.0,Accessories,Tires and Tubes,1467460.0
+494,87,United States,66-75,62179.0,Accessories,Helmets,1224561.0
+495,87,United States,66-75,62179.0,Accessories,Bike Stands,77851.0
+496,87,United States,66-75,62179.0,Accessories,Hydration Packs,232863.0
+497,87,United States,66-75,62179.0,Accessories,Fenders,216417.0
+498,87,United States,66-75,62179.0,Accessories,Cleaners,52146.0
+499,87,United States,66-75,62179.0,Accessories,Bottles and Cages,377018.0
+500,87,United States,66-75,62179.0,Accessories,Bike Racks,74713.0
+501,88,United States,66-75,62179.0,Bikes,Mountain Bikes,2421070.0
+502,88,United States,66-75,62179.0,Bikes,Touring Bikes,994459.0
+503,88,United States,66-75,62179.0,Bikes,Road Bikes,1317679.0
+504,89,United States,66-75,62179.0,Clothing,Gloves,135778.0
+505,89,United States,66-75,62179.0,Clothing,Jerseys,883686.0
+506,89,United States,66-75,62179.0,Clothing,Socks,37975.0
+507,89,United States,66-75,62179.0,Clothing,Caps,107619.0
+508,89,United States,66-75,62179.0,Clothing,Vests,203707.0
+509,89,United States,66-75,62179.0,Clothing,Shorts,552740.0
+510,90,United States,76-85,2048.0,Accessories,Tires and Tubes,1467460.0
+511,90,United States,76-85,2048.0,Accessories,Helmets,1224561.0
+512,90,United States,76-85,2048.0,Accessories,Bike Stands,77851.0
+513,90,United States,76-85,2048.0,Accessories,Hydration Packs,232863.0
+514,90,United States,76-85,2048.0,Accessories,Fenders,216417.0
+515,90,United States,76-85,2048.0,Accessories,Cleaners,52146.0
+516,90,United States,76-85,2048.0,Accessories,Bottles and Cages,377018.0
+517,90,United States,76-85,2048.0,Accessories,Bike Racks,74713.0
+518,91,United States,76-85,2048.0,Bikes,Mountain Bikes,2421070.0
+519,91,United States,76-85,2048.0,Bikes,Touring Bikes,994459.0
+520,91,United States,76-85,2048.0,Bikes,Road Bikes,1317679.0
+521,92,United States,76-85,2048.0,Clothing,Gloves,135778.0
+522,92,United States,76-85,2048.0,Clothing,Jerseys,883686.0
+523,92,United States,76-85,2048.0,Clothing,Socks,37975.0
+524,92,United States,76-85,2048.0,Clothing,Caps,107619.0
+525,92,United States,76-85,2048.0,Clothing,Vests,203707.0
+526,92,United States,76-85,2048.0,Clothing,Shorts,552740.0
+527,93,United States,86-95,0.0,Accessories,Tires and Tubes,1467460.0
+528,93,United States,86-95,0.0,Accessories,Helmets,1224561.0
+529,93,United States,86-95,0.0,Accessories,Bike Stands,77851.0
+530,93,United States,86-95,0.0,Accessories,Hydration Packs,232863.0
+531,93,United States,86-95,0.0,Accessories,Fenders,216417.0
+532,93,United States,86-95,0.0,Accessories,Cleaners,52146.0
+533,93,United States,86-95,0.0,Accessories,Bottles and Cages,377018.0
+534,93,United States,86-95,0.0,Accessories,Bike Racks,74713.0
+535,94,United States,86-95,0.0,Bikes,Mountain Bikes,2421070.0
+536,94,United States,86-95,0.0,Bikes,Touring Bikes,994459.0
+537,94,United States,86-95,0.0,Bikes,Road Bikes,1317679.0
+538,95,United States,86-95,0.0,Clothing,Gloves,135778.0
+539,95,United States,86-95,0.0,Clothing,Jerseys,883686.0
+540,95,United States,86-95,0.0,Clothing,Socks,37975.0
+541,95,United States,86-95,0.0,Clothing,Caps,107619.0
+542,95,United States,86-95,0.0,Clothing,Vests,203707.0
+543,95,United States,86-95,0.0,Clothing,Shorts,552740.0

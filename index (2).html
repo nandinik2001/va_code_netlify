@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive D3 Charts</title>
+    <script src="https://d3js.org/d3.v6.js"></script> <!-- Load D3.js library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        #container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 20px;
+        }
+
+        #controls {
+            margin-bottom: 20px;
+            width: 100%;
+            text-align: center;
+        }
+
+        #chart-container {
+            display: flex;
+            flex-direction: row; /* Ensure the charts are side-by-side */
+            justify-content: space-between;
+            align-items: flex-start; /* Align the charts at the top */
+            width: 100%;
+        }
+
+        #chart,
+        #pieChart {
+            flex: 1; /* Make the charts take equal space */
+            margin: 20px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            min-width: 400px; /* Ensure charts have a minimum width */
+            height: 500px; /* Define a fixed height for both charts */
+            box-sizing: border-box; /* Include padding and border in the element's dimensions */
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: center;
+             /* Initially hidden */
+        }
+
+        h3 {
+            text-align: center;
+            margin-bottom: 10px;
+        }
+
+        a {
+            font-size: 14px;
+            color: #555;
+            margin-top: 5px;
+            text-align: center;
+        }
+
+        svg {
+            width: 100%;
+            height: calc(100% - 50px); /* Subtract space for the title and description */
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <div id="controls">
+            
+        </div>
+        <div id="chart-container">
+            <div id="chart">
+                <h3>Age Group Spending By Country</h3>
+                <a>X-Axis : Country , Age-Group , Y-Axis : Revenue</a>
+                <!-- Bar Chart SVG -->
+            </div>
+            <div id="pieChart">
+                <h3>Product Categories</h3>
+                <!-- <a>Product Category , Sub Category , Revenue</a> -->
+                <!-- Pie Chart SVG -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Include D3.js -->
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="scripts (1).js"></script>
+    <script>
+        const fileInput = document.getElementById("fileInput");
+        const chartContainer = document.getElementById("chart-container");
+        const barChart = document.getElementById("chart");
+        const pieChart = document.getElementById("pieChart");
+
+       
+    </script>
+</body>
+</html>
